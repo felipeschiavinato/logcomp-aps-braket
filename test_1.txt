@@ -1,0 +1,7 @@
+var x int = 5
+var y string = "hello"
+var z int
+z = 10
+Println(x)
+Println(y)
+Println(z)

@@ -1,0 +1,10 @@
+var angle bra = <5|
+var magnitude ket = |10>
+var complex braket = <5|10>
+
+Println(angle)
+Println(magnitude)
+Println(complex)
+
+var sum int = <3| + |4>
+Println(sum)

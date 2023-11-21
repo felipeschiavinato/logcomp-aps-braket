@@ -1,0 +1,6 @@
+var invalid int = "not an int"
+Println(10 / 0)
+
+if (10 > 5 {
+    Println("Missing closing parenthesis")
+}

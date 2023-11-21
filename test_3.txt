@@ -1,0 +1,10 @@
+var a int = 10
+if a < 20 {
+    Println("a is less than 20")
+} else {
+    Println("a is not less than 20")
+}
+
+for var i int = 0; i < 5; i = i + 1 {
+    Println(i)
+}
